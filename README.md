@@ -6,7 +6,7 @@ A modern Random Quote Machine built with React for the FreeCodeCamp Front End De
 
 ## 🔗 Live Demo
 
-https://solinda-cheab.github.io/fcc-random-quote-machine/
+https://fcc-random-quote-machine-a2h7.vercel.app/
 
 ---
 
